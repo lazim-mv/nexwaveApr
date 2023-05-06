@@ -738,6 +738,7 @@ section .cardContainer .cardDesc{
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin-bottom: 150px;
 }
 
 .serviceTopContainer {
@@ -801,8 +802,7 @@ section .cardContainer .cardDesc{
   height: 75vh;
   display: flex;
   justify-content: center;
-  border-bottom: 2px solid #F8F8FF;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
 }
 
 .processContainer{
@@ -1512,8 +1512,6 @@ section .cardContainer .cardDesc{
 
   /* Service Section Start */
 
-
-
   .servicesContainer{
     flex-direction: column;
   }
@@ -1750,6 +1748,7 @@ section .cardContainer .cardDesc{
     padding-top: 80px;
     height: 100%;
     padding-bottom: 60px;
+    margin-bottom: 50px;
   }
 
   .processHeadingH1{
